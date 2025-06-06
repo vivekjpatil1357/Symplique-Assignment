@@ -20,7 +20,7 @@ A simple API for a reminder application that allows users to set up reminders wi
 
 1. Clone the repository
 ```
-git clone <repository-url>
+git clone https://github.com/vivekjpatil1357/Symplique-Assignment.git
 cd remind-me-later
 ```
 
